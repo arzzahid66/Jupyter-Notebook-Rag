@@ -1,0 +1,15 @@
+streamlit
+langchain
+python-dotenv
+langchain-openai
+pinecone-client
+openai
+langchain-community
+langchain-core
+langchain-pinecone
+datetime
+nbformat
+jupyter-client
+
+
+
